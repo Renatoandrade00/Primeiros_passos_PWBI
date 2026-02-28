@@ -22,7 +22,7 @@ O processo de criação de um relatório segue geralmente três etapas principai
 
 Para construir uma solução de BI robusta, trabalhamos em três frentes:
 
-### 1. ETL (Extração, Transformação e Carga)
+### 1. ETL (Extração, Transformação e Carga) ou ELT (Extração, Carga e Transformação)
 Utilizamos o **Power Query** para conectar em diversas fontes (Excel, SQL, Web) e realizar a limpeza dos dados (tratar nulos, alterar tipos de colunas, etc).
 > *"Dados limpos são a base de uma análise confiável."*
 
