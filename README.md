@@ -50,6 +50,7 @@ Criação de medidas utilizando a linguagem **DAX (Data Analysis Expressions)** 
 * `/datasets`: Arquivos utilizados para prática.
 * `/reports`: Arquivos `.pbix` dos relatórios criados.
 * `/img`: Screenshots dos dashboards.
+* Obs.: Os desafios de Projeto estão salvos em /reports e /img.
 
 ---
 
